@@ -1,0 +1,816 @@
+{
+    "topology": [
+        {
+            "switch_from": 1,
+            "switch_to": 2,
+            "throughput": 100
+        },
+        {
+            "switch_from": 1,
+            "switch_to": 3,
+            "throughput": 100
+        },
+        {
+            "switch_from": 2,
+            "switch_to": 4,
+            "throughput": 100
+        },
+        {
+            "switch_from": 2,
+            "switch_to": 5,
+            "throughput": 100
+        },
+        {
+            "switch_from": 3,
+            "switch_to": 5,
+            "throughput": 100
+        },
+        {
+            "switch_from": 3,
+            "switch_to": 6,
+            "throughput": 100
+        },
+        {
+            "switch_from": 4,
+            "switch_to": 7,
+            "throughput": 100
+        },
+        {
+            "switch_from": 5,
+            "switch_to": 7,
+            "throughput": 100
+        },
+        {
+            "switch_from": 5,
+            "switch_to": 8,
+            "throughput": 100
+        },
+        {
+            "switch_from": 6,
+            "switch_to": 8,
+            "throughput": 100
+        },
+        {
+            "switch_from": 7,
+            "switch_to": 9,
+            "throughput": 100
+        },
+        {
+            "switch_from": 8,
+            "switch_to": 9,
+            "throughput": 100
+        }
+    ],
+    "slices": [
+        {
+            "sls_number": 1,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 1,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 2,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 2,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 3,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 3,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 4,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 4,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 5,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 5,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 6,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 6,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 7,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 7,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 8,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 8,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 9,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 9,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 10,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 10,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 11,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 11,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 12,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 12,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 13,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 13,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 14,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 14,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 15,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 15,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 16,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 16,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 17,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 17,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 18,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 18,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 19,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 19,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 20,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 20,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 21,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 21,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 22,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 22,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 23,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 23,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 24,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 24,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 25,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 25,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 26,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 26,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 27,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 27,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 28,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 28,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 29,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 29,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 30,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 30,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 31,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 31,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 32,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 32,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 33,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 33,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 34,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 34,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 35,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 35,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 36,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 36,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 37,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 37,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 38,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 38,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 39,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 39,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 40,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 40,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 41,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 41,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 42,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 42,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 43,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 43,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 44,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 44,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 45,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 45,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 46,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 46,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 47,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 47,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 48,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 48,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 49,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 49,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        },
+        {
+            "sls_number": 50,
+            "switch_start": 1,
+            "switch_end": 9,
+            "packet_size": 0.01,
+            "qos": {
+                "throughput": 2,
+                "delay": 1000
+            },
+            "flow": {
+                "flow_number": 50,
+                "rho_a": 1.9,
+                "b_a": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,2121 @@
+{
+    "slices": [
+        {
+            "sls_number": 1,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 6.75561752,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 2,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 8.05340769,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        9,
+                        12,
+                        13,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 3,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 9.49396774,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 4,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 10.86317257,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 5,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 11.43371183,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 6,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 10.8602783,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        8,
+                        11,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 7,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 11.91299615,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 8,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.7999298,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        9,
+                        12,
+                        13,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 9,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.26514925,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 10,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.47323285,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        8,
+                        11,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 11,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.40653189,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 12,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.57502028,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 13,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.99808268,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        9,
+                        12,
+                        13,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 14,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.67888044,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 15,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.75776003,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 16,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 14.42930422,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        8,
+                        11,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 17,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.85725431,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 18,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.89166915,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 19,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 14.58995292,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        9,
+                        12,
+                        13,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 20,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 12.96397161,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 21,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 14.88534819,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        8,
+                        11,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 22,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.00511651,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 23,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.04393788,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 24,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 14.93028088,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        9,
+                        12,
+                        13,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 25,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.08236442,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 26,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.10304988,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 27,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 15.13896783,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        9,
+                        12,
+                        13,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 28,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.14008053,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 29,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 15.18837499,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        8,
+                        11,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 30,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.15953209,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 31,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.18406194,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 32,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 15.30455942,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        9,
+                        12,
+                        13,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 33,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.20413564,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 34,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.21869598,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 35,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 15.36983317,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        8,
+                        11,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 36,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.24271452,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 37,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.25007542,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 38,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 15.43052365,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        9,
+                        12,
+                        13,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 39,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 13.2696319,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        },
+        {
+            "sls_number": 40,
+            "packet_size": 0.01,
+            "bandwidth": 3.75,
+            "qos_delay": 1000,
+            "estimate_delay": 15.49643473,
+            "flows": [
+                {
+                    "lambda": 3.65,
+                    "path": [
+                        1,
+                        3,
+                        6,
+                        8,
+                        11,
+                        7,
+                        10
+                    ]
+                }
+            ]
+        }
+    ],
+    "topology": {
+        "switches": [
+            {
+                "number": 1,
+                "ports": [
+                    {
+                        "link": [
+                            1,
+                            2
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 1,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 4,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 7,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 9,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 12,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 15,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 18,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 20,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 23,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 26,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 28,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 31,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 34,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 37,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 39,
+                                "weight": 0.06666666666666667
+                            }
+                        ]
+                    },
+                    {
+                        "link": [
+                            1,
+                            3
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 2,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 3,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 5,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 6,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 8,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 10,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 11,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 13,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 14,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 16,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 17,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 19,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 21,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 22,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 24,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 25,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 27,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 29,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 30,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 32,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 33,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 35,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 36,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 38,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 40,
+                                "weight": 0.04
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "ports": [
+                    {
+                        "link": [
+                            2,
+                            4
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 1,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 4,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 7,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 9,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 12,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 15,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 18,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 20,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 23,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 26,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 28,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 31,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 34,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 37,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 39,
+                                "weight": 0.06666666666666667
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "ports": [
+                    {
+                        "link": [
+                            3,
+                            4
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 3,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 5,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 11,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 14,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 17,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 22,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 25,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 30,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 33,
+                                "weight": 0.1
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 36,
+                                "weight": 0.1
+                            }
+                        ]
+                    },
+                    {
+                        "link": [
+                            3,
+                            6
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 2,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 6,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 8,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 10,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 13,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 16,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 19,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 21,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 24,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 27,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 29,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 32,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 35,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 38,
+                                "weight": 0.06666666666666667
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 40,
+                                "weight": 0.06666666666666667
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "ports": [
+                    {
+                        "link": [
+                            4,
+                            5
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 1,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 3,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 4,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 5,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 7,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 9,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 11,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 12,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 14,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 15,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 17,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 18,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 20,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 22,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 23,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 25,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 26,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 28,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 30,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 31,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 33,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 34,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 36,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 37,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 39,
+                                "weight": 0.04
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "ports": [
+                    {
+                        "link": [
+                            6,
+                            8
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 6,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 10,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 16,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 21,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 29,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 35,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 40,
+                                "weight": 0.14285714285714285
+                            }
+                        ]
+                    },
+                    {
+                        "link": [
+                            6,
+                            9
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 2,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 8,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 13,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 19,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 24,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 27,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 32,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 38,
+                                "weight": 0.125
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "ports": [
+                    {
+                        "link": [
+                            5,
+                            7
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 1,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 3,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 4,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 5,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 7,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 9,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 11,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 12,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 14,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 15,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 17,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 18,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 20,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 22,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 23,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 25,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 26,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 28,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 30,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 31,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 33,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 34,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 36,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 37,
+                                "weight": 0.04
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 39,
+                                "weight": 0.04
+                            }
+                        ]
+                    },
+                    {
+                        "link": [
+                            5,
+                            8
+                        ],
+                        "bandwidth": 200,
+                        "queues": []
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "ports": [
+                    {
+                        "link": [
+                            8,
+                            11
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 6,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 10,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 16,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 21,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 29,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 35,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 40,
+                                "weight": 0.14285714285714285
+                            }
+                        ]
+                    },
+                    {
+                        "link": [
+                            8,
+                            12
+                        ],
+                        "bandwidth": 200,
+                        "queues": []
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "ports": [
+                    {
+                        "link": [
+                            9,
+                            12
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 2,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 8,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 13,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 19,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 24,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 27,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 32,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 38,
+                                "weight": 0.125
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "ports": [
+                    {
+                        "link": [
+                            7,
+                            10
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 1,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 3,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 4,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 5,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 6,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 7,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 9,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 10,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 11,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 12,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 14,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 15,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 16,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 17,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 18,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 20,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 21,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 22,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 23,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 25,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 26,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 28,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 29,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 30,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 31,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 33,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 34,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 35,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 36,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 37,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 39,
+                                "weight": 0.03125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 40,
+                                "weight": 0.03125
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "ports": [
+                    {
+                        "link": [
+                            11,
+                            7
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 6,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 10,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 16,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 21,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 29,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 35,
+                                "weight": 0.14285714285714285
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 40,
+                                "weight": 0.14285714285714285
+                            }
+                        ]
+                    },
+                    {
+                        "link": [
+                            11,
+                            13
+                        ],
+                        "bandwidth": 200,
+                        "queues": []
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "ports": [
+                    {
+                        "link": [
+                            12,
+                            13
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 2,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 8,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 13,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 19,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 24,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 27,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 32,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 38,
+                                "weight": 0.125
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "ports": []
+            },
+            {
+                "number": 13,
+                "ports": [
+                    {
+                        "link": [
+                            13,
+                            10
+                        ],
+                        "bandwidth": 200,
+                        "queues": [
+                            {
+                                "priority": 1,
+                                "queue_number": 2,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 8,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 13,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 19,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 24,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 27,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 32,
+                                "weight": 0.125
+                            },
+                            {
+                                "priority": 1,
+                                "queue_number": 38,
+                                "weight": 0.125
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
